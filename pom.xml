@@ -6,7 +6,7 @@
 	<groupId>com.valiska</groupId>
 	<artifactId>vending-machine-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>vending-machine-spring</name>
 	<description>Demo project for Spring Boot</description>
